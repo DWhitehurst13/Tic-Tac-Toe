@@ -1,0 +1,99 @@
+#board {
+    padding: 3em;
+    text-align: center
+}
+
+.top-left {
+float: left;
+height: 100px;
+width: 100px;
+border-bottom: 1px black solid;
+border-top: 1px black solid;
+border-left: 1px black solid; 
+}
+
+.top-middle {
+float: left;
+height: 100px;
+width: 100px;
+border-bottom: 1px black solid;
+border-top: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.top-right {
+float: left;
+height: 100px;
+width: 100px;
+border-bottom: 1px black solid;
+border-top: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.center-left {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.center {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.center-right {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.bottom-left {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.bottom-middle {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.bottom-right {
+float: left;
+height: 100px;
+width: 100px;
+border-top: 1px black solid;
+border-bottom: 1px black solid;
+border-left: 1px black solid;
+border-right: 1px black solid;
+}
+
+.row {
+    clear: both;
+    margin: auto;
+    width: 302px;
+}
