@@ -9,7 +9,8 @@ height: 100px;
 width: 100px;
 border-bottom: 1px black solid;
 border-top: 1px black solid;
-border-left: 1px black solid; 
+border-left: 1px black solid;
+border-right: 1px black solid; 
 }
 
 .top-middle {
@@ -95,5 +96,10 @@ border-right: 1px black solid;
 .row {
     clear: both;
     margin: auto;
-    width: 302px;
+    width: 310px;
+}
+
+body {
+    background-color: darkgreen
+    
 }
